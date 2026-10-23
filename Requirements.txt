@@ -1,6 +1,6 @@
-streamlit,
-Numpy,
-pypdf,
-faiss-cpu,
-sentence-transformer,
+streamlit
+Numpy
+pypdf
+faiss-cpu
+sentence-transformers
 google-genai
